@@ -1,0 +1,7 @@
+Tue Jun 12 14:17:06 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/isdb/rt-bayesgje-2
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 1 --timestep 0.005 --ixyz ala12_trajectory.xyz --multi 2  --dump-forces allforce
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/isdb/rt-bayesgje-2/tmp

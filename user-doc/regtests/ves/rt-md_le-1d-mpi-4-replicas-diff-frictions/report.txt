@@ -1,0 +1,8 @@
+Tue Jun 12 14:20:26 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-frictions
+++ Test type: plumed
+++ Arguments: ves_md_linearexpansion input
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/ves/rt-md_le-1d-mpi-4-replicas-diff-frictions/tmp
+Checking for ves

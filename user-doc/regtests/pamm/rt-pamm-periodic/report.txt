@@ -1,0 +1,8 @@
+Tue Jun 12 14:19:19 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/pamm/rt-pamm-periodic
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz M1d_open.xyz --box 55.598,55.569,55.569 --length-units A
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/pamm/rt-pamm-periodic/tmp
+Checking for pamm

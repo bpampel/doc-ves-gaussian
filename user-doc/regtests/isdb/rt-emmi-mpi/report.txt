@@ -1,0 +1,7 @@
+Tue Jun 12 14:17:48 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/isdb/rt-emmi-mpi
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_pdb structure.pdb --box 100,100,100
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/isdb/rt-emmi-mpi/tmp

@@ -1,0 +1,7 @@
+Tue Jun 12 14:14:55 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/basic/rt-make-2
+++ Test type: make
+++ Arguments: 
+++ Processors: 3
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/basic/rt-make-2/tmp

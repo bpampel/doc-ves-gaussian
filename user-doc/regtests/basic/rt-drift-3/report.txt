@@ -1,0 +1,7 @@
+Tue Jun 12 14:14:45 UTC 2018
+Running regtest in /home/travis/build/bpampel/plumed2-ves/regtest/basic/rt-drift-3
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --timestep=0.005  --initial-step=1 --ixyz trajectory.xyz --dump-forces ff --pdb test.pdb --debug-pd yes
+++ Processors: 4
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/bpampel/plumed2-ves/regtest/basic/rt-drift-3/tmp
